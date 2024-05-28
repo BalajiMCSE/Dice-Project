@@ -1,0 +1,54 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: rgb(120,140,160);
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #4ECCA3;
+  text-align: center;
+}
+
+p {
+  font-size: 2rem;
+  color: rgb(150,70,210);
+  font-family: 'Indie Flower', cursive;
+  font-weight: 500 bold;
+  border:3px solid rgb(110,76,172);
+  border-radius: 10px;
+  margin-right: 20px;
+  box-shadow: 6px 1px rgb(175, 156, 180);
+  text-shadow: 1.5px 0 rgb(20,120 ,60);
+}
+
+img {
+  width: 80%;
+}
+
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+}
+
+.bebas-neue-regular {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
