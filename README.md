@@ -1,2 +1,4 @@
 # Dice-Project
-Using Html,css anf javascript
+Using HTML , CSS and JAVASCRIPT
+
+A creative game that entertains users and supports making decisions at chaotic times....
